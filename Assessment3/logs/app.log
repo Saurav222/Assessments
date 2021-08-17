@@ -1,0 +1,5 @@
+2021-08-17 11:35:55,922 DEBUG a.Accounts [main] USER CREATED
+2021-08-17 12:42:54,778 DEBUG a.Accounts [main] USER CREATED
+2021-08-17 13:11:36,178 DEBUG a.Accounts [main] DEPOSIT in id 2
+2021-08-17 13:18:20,050 DEBUG a.Accounts [main] WITHDRAWAL from id 2
+2021-08-17 13:19:38,615 DEBUG a.Accounts [main] DEPOSIT in id 2
